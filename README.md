@@ -43,12 +43,11 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 - CI/CD Pipelines – Automating deployment processes
 
 ---
-
+<!--
 ## 📜 Certifications
 - ✅ JavaScript, NodeJS, MERN Full Stack Guide
-- ✅ Java Development and Spring Boot
 - ✅ Spoken Tutorial C and Java certifications from IIT
-
+-->
 ---
 
 ## 🎯 Interests
