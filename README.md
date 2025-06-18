@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 ## 🗂 Table of Contents
 - [About Me](#-about-me)
 - [Skills](#-skills)
-- [Certifications](#-certifications)
 - [Interests](#-interests)
 - [Portfolio](#-portfolio)
 - [Contact Me](#-contact-me)
