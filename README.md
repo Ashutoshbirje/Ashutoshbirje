@@ -47,12 +47,9 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 ### Backend Development
 - Node.js – Building robust server-side logic
 - Express.js – Efficient backend APIs
-- RESTful APIs Design – Creating scalable and secure APIs
 
 ### DevOps & Cloud
 - Docker – Containerization of applications
-- AWS – Deploying and managing applications in the cloud
-- CI/CD Pipelines – Automating deployment processes
 
 ---
 <!--
