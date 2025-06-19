@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 ---
 
 ## 📁 Portfolio
-Check out my portfolio:  [Portfolio 🔗](https://ashutoshbirje.github.io/Protfolio_2/)
+Check out my portfolio:  [Portfolio 🔗](https://ashutoshbirje.netlify.app/)
 
 ---
 
