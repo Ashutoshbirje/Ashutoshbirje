@@ -2,7 +2,7 @@
 
 <!--![Banner](https://github.com/Atharva1213/Atharva1213/blob/main/assets/banner.png)-->
 
-Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack Web Developer with a strong background in programming, problem-solving, and analytical skills.
+Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack Web Developer with a strong background in programming, problem-solving and analytical skills.
 
 ---
 
