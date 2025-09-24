@@ -51,13 +51,6 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 ### DevOps & Cloud
 - Docker – Containerization of applications
 
----
-<!--
-## 📜 Certifications
-- ✅ JavaScript, NodeJS, MERN Full Stack Guide
-- ✅ Spoken Tutorial C and Java certifications from IIT
--->
----
 
 ## 🎯 Interests
 - 🌐 Creative websites – Passionate about fine-tuned UIs and teamwork
