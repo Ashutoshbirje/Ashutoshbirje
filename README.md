@@ -49,8 +49,9 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 - Express.js – Efficient backend APIs
 
 ### DevOps & Cloud
+- Git - Version Control System 
+- Git-Hub Action - CI-CD Pipeline
 - Docker – Containerization of applications
-
 
 ## 🎯 Interests
 - 🌐 Creative websites – Passionate about fine-tuned UIs and teamwork
