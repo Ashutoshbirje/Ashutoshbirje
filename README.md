@@ -1,6 +1,6 @@
 # Ashutosh Birje - Associate IT Operations Engineer 👋
 
-Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operations Engineer** and Computer Science graduate from **Walchand College of Engineering, Sangli**. I'm passionate about Linux, networking, system administration, cloud technologies, and infrastructure automation. I enjoy solving real-world technical challenges and continuously expanding my knowledge of enterprise IT systems.
+Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operations Engineer** and Computer Science graduate from **Walchand College of Engineering, Sangli**. I'm passionate about Linux, networking, system administration, cloud technologies and infrastructure automation. I enjoy solving real-world technical challenges and continuously expanding my knowledge of enterprise IT systems.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operatio
 - 🎓 Computer Science graduate from **Walchand College of Engineering, Sangli**.
 - 💼 Working as an **Associate IT Operations Engineer**.
 - 🖥️ Interested in **Network Engineering, Linux Administration, Cloud Infrastructure, and IT Operations**.
-- 🔍 Passionate about learning new technologies and building secure, reliable, and scalable infrastructure.
+- 🔍 Passionate about learning new technologies and building secure, reliable and scalable infrastructure.
 - 🤝 Active contributor to open-source projects and technical communities.
 
 ---
@@ -37,13 +37,12 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operatio
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### Operating Systems
 - Linux
-- Windows Server
+- Window
+- Windows Server 
 
 ### Networking & Infrastructure
 - Computer Networks
@@ -51,7 +50,6 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operatio
 - Firewalls
 - VPN
 - pfSense
-- Active Directory
 - DNS & DHCP
 - Server Administration
 - Hyper-V Virtualization
@@ -68,8 +66,6 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operatio
 - Linux CLI
 
 ### Programming
-- C
-- C++
 - Python
 - Bash
 
@@ -90,7 +86,7 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operatio
 
 Currently exploring and strengthening my knowledge in:
 
-- Enterprise Networking
+- Enterprise Networking, CCNA, CCNP
 - Microsoft Azure
 - Linux System Administration
 - Network Security
