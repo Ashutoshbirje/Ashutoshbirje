@@ -1,8 +1,6 @@
-# Ashutosh Birje - Full Stack Web Developer 👋
+# Ashutosh Birje - Associate IT Operations Engineer 👋
 
-<!--![Banner](https://github.com/Atharva1213/Atharva1213/blob/main/assets/banner.png)-->
-
-Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack Web Developer with a strong background in programming, problem-solving and analytical skills.
+Welcome to my GitHub profile! I'm **Ashutosh Birje**, an **Associate IT Operations Engineer** and Computer Science graduate from **Walchand College of Engineering, Sangli**. I'm passionate about Linux, networking, system administration, cloud technologies, and infrastructure automation. I enjoy solving real-world technical challenges and continuously expanding my knowledge of enterprise IT systems.
 
 ---
 
@@ -10,86 +8,104 @@ Welcome to my GitHub profile! I'm **Ashutosh Birje**, a passionate Full Stack We
 - [About Me](#-about-me)
 - [Skills](#-skills)
 - [Interests](#-interests)
-- [Portfolio](#-portfolio)
+- [Certifications & Learning](#-certifications--learning)
 - [Contact Me](#-contact-me)
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Pursuing B. Tech in Computer Engineering at Walchand College Of Engineering, Sangli.
-- 👨‍💻 Actively contributing to open-source projects and community initiatives.
-- 🔍 Always eager to learn and implement new technologies to solve real-world problems.
+
+- 🎓 Computer Science graduate from **Walchand College of Engineering, Sangli**.
+- 💼 Working as an **Associate IT Operations Engineer**.
+- 🖥️ Interested in **Network Engineering, Linux Administration, Cloud Infrastructure, and IT Operations**.
+- 🔍 Passionate about learning new technologies and building secure, reliable, and scalable infrastructure.
+- 🤝 Active contributor to open-source projects and technical communities.
 
 ---
 
 ## 🛠 Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyper--V-0089D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
+### Operating Systems
+- Linux
+- Windows Server
 
-### Frontend Development
-- HTML, CSS, JavaScript
-- React.js – Building interactive UIs
-- Responsive Design – Ensuring mobile-first user experience
+### Networking & Infrastructure
+- Computer Networks
+- TCP/IP
+- Firewalls
+- VPN
+- pfSense
+- Active Directory
+- DNS & DHCP
+- Server Administration
+- Hyper-V Virtualization
 
-### Backend Development
-- Node.js – Building robust server-side logic
-- Express.js – Efficient backend APIs
+### Cloud & Automation
+- Microsoft Azure
+- Bash Scripting
+- Python
+- Docker
 
-### DevOps & Cloud
-- Git - Version Control System 
-- Git-Hub Action - CI-CD Pipeline
-- Docker – Containerization of applications
+### Tools
+- Git
+- GitHub
+- Linux CLI
 
-## 🎯 Interests
-- 🌐 Creative websites – Passionate about fine-tuned UIs and teamwork
-- 🧠 Hackathons – Enjoy building innovative solutions in coding competitions
-- 🌍 Open Source – Contributing to the community and learning collaboratively
+### Programming
+- C
+- C++
+- Python
+- Bash
 
 ---
 
-## 📁 Portfolio
-Check out my portfolio:  [Portfolio 🔗](https://ashutoshbirje.netlify.app/)
+## 🎯 Interests
+
+- 🌐 Network Engineering
+- ☁️ Cloud Infrastructure
+- 🐧 Linux Administration
+- 🔐 Network Security
+- 🤖 Infrastructure Automation
+- 🌍 Open Source
+
+---
+
+## 📚 Certifications & Learning
+
+Currently exploring and strengthening my knowledge in:
+
+- Enterprise Networking
+- Microsoft Azure
+- Linux System Administration
+- Network Security
+- Infrastructure Automation using Python & Bash
 
 ---
 
 ## 📬 Contact Me
 
-Feel free to connect with me on:
+Feel free to connect with me!
 
-- 📧 Email: [ashutoshbirje880@gmail.com](mailto:ashutoshbirje880@gmail.com)
-- 🔗 LinkedIn: [Ashutosh Birje](https://www.linkedin.com/in/ashutosh-birje-246453263/)
-- 🔗 Instagram: [ashu_880_](https://www.instagram.com/ashu_880_/)
-
+- 📧 **Email:** ashutoshbirje880@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ashutosh-birje-246453263/
+- 📷 **Instagram:** https://www.instagram.com/ashu_880_/
 
 ---
 
-Thanks for visiting my profile! 🚀
-
-
-<!--
-**Ashutoshbirje/Ashutoshbirje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile! I'm always open to collaborating on projects related to **Networking, Linux, Cloud, and IT Infrastructure.**
